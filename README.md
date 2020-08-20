@@ -21,7 +21,9 @@ Pom.xml → contain all dependencies used in project
 *Tests → contain (Base Tests, Rgister test)
 - Base Tests → contain methods that should run before/after (Class and method and test)
 - Rgister Test → contain test Scenario and data provider thatread from excel sheet and also log each step in the test cass and register to the site 
+
 ####################################################################################
+
 Steps to run:
 
 
