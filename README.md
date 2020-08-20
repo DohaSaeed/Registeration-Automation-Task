@@ -23,6 +23,8 @@ Pom.xml → contain all dependencies used in project
 - Rgister Test → contain test Scenario and data provider thatread from excel sheet and also log each step in the test cass and register to the site 
 ####################################################################################
 Steps to run:
+
+
 1.open Register Test and Run 
 
 
