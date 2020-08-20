@@ -37,8 +37,8 @@ Steps to run:
 • ExtentStepLogs.html
 • Emailable-report.html
 
-
 4. if there is any failure open folder ScreenShot to see the error 
+
 5. if you want to change data open folder Data then open excell sheet and change data .
 ########################################################################
 
